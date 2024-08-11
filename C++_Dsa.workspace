@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++_Dsa" Database="" Version="10000">
+  <Project Name="notes" Path="practice/practice.project" Active="No"/>
+  <Project Name="rectangle_object" Path="rectangle_object/rectangle_object.project" Active="No"/>
+  <Project Name="template_class" Path="template_class/template_class.project" Active="No"/>
+  <Project Name="array_q" Path="array_q/array_q.project" Active="No"/>
+  <Project Name="array" Path="array/array.project" Active="No"/>
+  <Project Name="2d_array" Path="2d_array/2d_array.project" Active="No"/>
+  <Project Name="array_ADT_and_operations" Path="array_ADT_and_operations/array_ADT_and_operations.project" Active="No"/>
+  <Project Name="array_operation2" Path="array_operation2/array_operation2.project" Active="No"/>
+  <Project Name="delete_duplicate" Path="delete_duplicate/delete_duplicate.project" Active="No"/>
+  <Project Name="missing_positive" Path="missing_positive/missing_positive.project" Active="No"/>
+  <Project Name="template_array_ADT" Path="template_array_ADT/template_array_ADT.project" Active="No"/>
+  <Project Name="missing_element" Path="missing_element/missing_element.project" Active="No"/>
+  <Project Name="find_duplicate" Path="find_duplicate/find_duplicate.project" Active="No"/>
+  <Project Name="pair_sum" Path="pair_sum/pair_sum.project" Active="No"/>
+  <Project Name="duplicate_string" Path="duplicate_string/duplicate_string.project" Active="No"/>
+  <Project Name="duplicate_string_bits" Path="duplicate_string_bits/duplicate_string_bits.project" Active="No"/>
+  <Project Name="string_anagram" Path="string_anagram/string_anagram.project" Active="No"/>
+  <Project Name="perm_string" Path="perm_string/perm_string.project" Active="No"/>
+  <Project Name="lower_traingular_matrix" Path="lower_traingular_matrix/lower_traingular_matrix.project" Active="No"/>
+  <Project Name="upper_taringular_matrix" Path="upper_taringular_matrix/upper_taringular_matrix.project" Active="No"/>
+  <Project Name="symetric_matrix" Path="symetric_matrix/symetric_matrix.project" Active="No"/>
+  <Project Name="tri_diagonal_matrix" Path="tri_diagonal_matrix/tri_diagonal_matrix.project" Active="No"/>
+  <Project Name="sparse_matrix" Path="sparse_matrix/sparse_matrix.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="notes" ConfigName="Debug"/>
+      <Project Name="rectangle_object" ConfigName="Debug"/>
+      <Project Name="template_class" ConfigName="Debug"/>
+      <Project Name="array_q" ConfigName="Debug"/>
+      <Project Name="array" ConfigName="Debug"/>
+      <Project Name="2d_array" ConfigName="Debug"/>
+      <Project Name="array_ADT_and_operations" ConfigName="Debug"/>
+      <Project Name="array_operation2" ConfigName="Debug"/>
+      <Project Name="delete_duplicate" ConfigName="Debug"/>
+      <Project Name="missing_positive" ConfigName="Debug"/>
+      <Project Name="template_array_ADT" ConfigName="Debug"/>
+      <Project Name="missing_element" ConfigName="Debug"/>
+      <Project Name="find_duplicate" ConfigName="Debug"/>
+      <Project Name="pair_sum" ConfigName="Debug"/>
+      <Project Name="duplicate_string" ConfigName="Debug"/>
+      <Project Name="duplicate_string_bits" ConfigName="Debug"/>
+      <Project Name="string_anagram" ConfigName="Debug"/>
+      <Project Name="perm_string" ConfigName="Debug"/>
+      <Project Name="lower_traingular_matrix" ConfigName="Debug"/>
+      <Project Name="upper_taringular_matrix" ConfigName="Debug"/>
+      <Project Name="symetric_matrix" ConfigName="Debug"/>
+      <Project Name="tri_diagonal_matrix" ConfigName="Debug"/>
+      <Project Name="sparse_matrix" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="notes" ConfigName="Release"/>
+      <Project Name="rectangle_object" ConfigName="Release"/>
+      <Project Name="template_class" ConfigName="Release"/>
+      <Project Name="array_q" ConfigName="Release"/>
+      <Project Name="array" ConfigName="Release"/>
+      <Project Name="2d_array" ConfigName="Release"/>
+      <Project Name="array_ADT_and_operations" ConfigName="Release"/>
+      <Project Name="array_operation2" ConfigName="Release"/>
+      <Project Name="delete_duplicate" ConfigName="Release"/>
+      <Project Name="missing_positive" ConfigName="Release"/>
+      <Project Name="template_array_ADT" ConfigName="Release"/>
+      <Project Name="missing_element" ConfigName="Release"/>
+      <Project Name="find_duplicate" ConfigName="Release"/>
+      <Project Name="pair_sum" ConfigName="Release"/>
+      <Project Name="duplicate_string" ConfigName="Release"/>
+      <Project Name="duplicate_string_bits" ConfigName="Release"/>
+      <Project Name="string_anagram" ConfigName="Release"/>
+      <Project Name="perm_string" ConfigName="Release"/>
+      <Project Name="lower_traingular_matrix" ConfigName="Release"/>
+      <Project Name="upper_taringular_matrix" ConfigName="Release"/>
+      <Project Name="symetric_matrix" ConfigName="Release"/>
+      <Project Name="tri_diagonal_matrix" ConfigName="Release"/>
+      <Project Name="sparse_matrix" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+../build-Debug/upper_taringular_matrix/main.cpp.o   

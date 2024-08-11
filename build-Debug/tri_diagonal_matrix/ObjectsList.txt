@@ -1,0 +1,1 @@
+../build-Debug/tri_diagonal_matrix/main.cpp.o   

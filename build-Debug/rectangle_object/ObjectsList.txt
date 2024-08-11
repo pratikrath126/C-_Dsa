@@ -1,0 +1,1 @@
+../build-Debug/rectangle_object/main.cpp.o   
