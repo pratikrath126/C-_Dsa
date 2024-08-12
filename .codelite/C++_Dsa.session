@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\CodeLite\C++_Dsa\C++_Dsa.workspace">
-  <int Value="14" Name="m_selectedTab"/>
+  <int Value="15" Name="m_selectedTab"/>
   <wxString Value="C:\CodeLite\C++_Dsa\C++_Dsa.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -105,6 +105,13 @@
       <wxString Value="C:\CodeLite\C++_Dsa\sparse_matrix\main.cpp" Name="FileName"/>
       <int Value="42" Name="FirstVisibleLine"/>
       <int Value="43" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\linked_list\main.cpp" Name="FileName"/>
+      <int Value="32" Name="FirstVisibleLine"/>
+      <int Value="44" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
