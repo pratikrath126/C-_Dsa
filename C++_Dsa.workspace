@@ -24,7 +24,8 @@
   <Project Name="tri_diagonal_matrix" Path="tri_diagonal_matrix/tri_diagonal_matrix.project" Active="No"/>
   <Project Name="sparse_matrix" Path="sparse_matrix/sparse_matrix.project" Active="No"/>
   <Project Name="polynomial_represenatation" Path="polynomial_represenatation/polynomial_represenatation.project" Active="No"/>
-  <Project Name="linked_list" Path="linked_list/linked_list.project" Active="Yes"/>
+  <Project Name="linked_list" Path="linked_list/linked_list.project" Active="No"/>
+  <Project Name="insert_linkedlist" Path="insert_linkedlist/insert_linkedlist.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -53,6 +54,7 @@
       <Project Name="sparse_matrix" ConfigName="Debug"/>
       <Project Name="polynomial_represenatation" ConfigName="Debug"/>
       <Project Name="linked_list" ConfigName="Debug"/>
+      <Project Name="insert_linkedlist" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -81,6 +83,7 @@
       <Project Name="sparse_matrix" ConfigName="Release"/>
       <Project Name="polynomial_represenatation" ConfigName="Release"/>
       <Project Name="linked_list" ConfigName="Release"/>
+      <Project Name="insert_linkedlist" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
