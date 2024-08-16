@@ -3,7 +3,7 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=insert_linkedlist
+ProjectName            :=INSEERT_DELETE_REVERSE_LINKEDLIST
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/CodeLite/C++_Dsa
@@ -14,7 +14,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=prati
-Date                   :=15/08/2024
+Date                   :=16/08/2024
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/mingw64/bin/g++.exe

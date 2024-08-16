@@ -25,7 +25,9 @@
   <Project Name="sparse_matrix" Path="sparse_matrix/sparse_matrix.project" Active="No"/>
   <Project Name="polynomial_represenatation" Path="polynomial_represenatation/polynomial_represenatation.project" Active="No"/>
   <Project Name="linked_list" Path="linked_list/linked_list.project" Active="No"/>
-  <Project Name="insert_linkedlist" Path="insert_linkedlist/insert_linkedlist.project" Active="Yes"/>
+  <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" Path="insert_linkedlist/insert_linkedlist.project" Active="No"/>
+  <Project Name="merge_linkedlist" Path="merge_linkedlist/merge_linkedlist.project" Active="No"/>
+  <Project Name="is_loop_linkedlist" Path="is_loop_linkedlist/is_loop_linkedlist.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -54,7 +56,9 @@
       <Project Name="sparse_matrix" ConfigName="Debug"/>
       <Project Name="polynomial_represenatation" ConfigName="Debug"/>
       <Project Name="linked_list" ConfigName="Debug"/>
-      <Project Name="insert_linkedlist" ConfigName="Debug"/>
+      <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" ConfigName="Debug"/>
+      <Project Name="merge_linkedlist" ConfigName="Debug"/>
+      <Project Name="is_loop_linkedlist" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -83,7 +87,9 @@
       <Project Name="sparse_matrix" ConfigName="Release"/>
       <Project Name="polynomial_represenatation" ConfigName="Release"/>
       <Project Name="linked_list" ConfigName="Release"/>
-      <Project Name="insert_linkedlist" ConfigName="Release"/>
+      <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" ConfigName="Release"/>
+      <Project Name="merge_linkedlist" ConfigName="Release"/>
+      <Project Name="is_loop_linkedlist" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
