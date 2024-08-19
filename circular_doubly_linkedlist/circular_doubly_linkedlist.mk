@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=INSEERT_DELETE_REVERSE_LINKEDLIST
+ProjectName            :=circular_doubly_linkedlist
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/CodeLite/C++_Dsa
-ProjectPath            :=C:/CodeLite/C++_Dsa/insert_linkedlist
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/insert_linkedlist
+ProjectPath            :=C:/CodeLite/C++_Dsa/circular_doubly_linkedlist
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/circular_doubly_linkedlist
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/CodeLite/C++_Dsa/insert_linkedlist/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/CodeLite/C++_Dsa/circular_doubly_linkedlist/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

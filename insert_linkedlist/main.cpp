@@ -20,6 +20,7 @@ void reverse(struct node* p);
 void reverse_1(struct node*);
 void reverse_2(struct node*,struct node*);
 void concatenate(struct node*,struct node*);
+ void middle(struct node* p);
 int main(){
     int arr[] {1,1,2,3,3,4,5,6,7,7,7,8,9,10,10};
 
@@ -29,10 +30,11 @@ int main(){
       cout<<"LIST IS SORTED"<<endl;
     else
           cout<<"LIST IS NOT SORTED"<<endl;
-    remove_duplicates(first);
+   remove_duplicates(first);
   //  reverse_2(NULL,first);
   //  display(first);
   insert(1,199);
+middle(first);
   display(first);
  //   insert_sorted(first,91);
  //   insert_sorted(first,12);
@@ -261,5 +263,14 @@ void reverse(struct node* p){
          p=p->next;
     p->next=q;
     q=NULL;
+ }
+ void middle(struct node* p){
+     struct node* q=p;
+     while(p){
+        p=p->next;
+        if(p)p=p->next;
+        if(p)q=q->next;
+     }
+     cout<<endl<<q->data<<endl;
  }
  
