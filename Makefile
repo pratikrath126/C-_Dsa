@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ INSEERT_DELETE_REVERSE_LINKEDLIST - Debug ]----------"
-	@cd "insert_linkedlist" && "$(MAKE)" -f  "INSEERT_DELETE_REVERSE_LINKEDLIST.mk"
+	@echo "----------Building project:[ polynomial_linkedlist - Debug ]----------"
+	@cd "polynomial_linkedlist" && "$(MAKE)" -f  "polynomial_linkedlist.mk"
 clean:
-	@echo "----------Cleaning project:[ INSEERT_DELETE_REVERSE_LINKEDLIST - Debug ]----------"
-	@cd "insert_linkedlist" && "$(MAKE)" -f  "INSEERT_DELETE_REVERSE_LINKEDLIST.mk" clean
+	@echo "----------Cleaning project:[ polynomial_linkedlist - Debug ]----------"
+	@cd "polynomial_linkedlist" && "$(MAKE)" -f  "polynomial_linkedlist.mk" clean

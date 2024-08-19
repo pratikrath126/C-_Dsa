@@ -25,12 +25,14 @@
   <Project Name="sparse_matrix" Path="sparse_matrix/sparse_matrix.project" Active="No"/>
   <Project Name="polynomial_represenatation" Path="polynomial_represenatation/polynomial_represenatation.project" Active="No"/>
   <Project Name="linked_list" Path="linked_list/linked_list.project" Active="No"/>
-  <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" Path="insert_linkedlist/insert_linkedlist.project" Active="Yes"/>
+  <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" Path="insert_linkedlist/insert_linkedlist.project" Active="No"/>
   <Project Name="merge_linkedlist" Path="merge_linkedlist/merge_linkedlist.project" Active="No"/>
   <Project Name="is_loop_linkedlist" Path="is_loop_linkedlist/is_loop_linkedlist.project" Active="No"/>
   <Project Name="circular_linkedlist" Path="circular_linkedlist/circular_linkedlist.project" Active="No"/>
   <Project Name="doubly_linkedlist" Path="doubly_linkedlist/doubly_linkedlist.project" Active="No"/>
   <Project Name="circular_doubly_linkedlist" Path="circular_doubly_linkedlist/circular_doubly_linkedlist.project" Active="No"/>
+  <Project Name="sparse_matrix_linkedlist" Path="sparse_matrix_linkedlist/sparse_matrix_linkedlist.project" Active="No"/>
+  <Project Name="polynomial_linkedlist" Path="polynomial_linkedlist/polynomial_linkedlist.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -65,6 +67,8 @@
       <Project Name="circular_linkedlist" ConfigName="Debug"/>
       <Project Name="doubly_linkedlist" ConfigName="Debug"/>
       <Project Name="circular_doubly_linkedlist" ConfigName="Debug"/>
+      <Project Name="sparse_matrix_linkedlist" ConfigName="Debug"/>
+      <Project Name="polynomial_linkedlist" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -99,6 +103,8 @@
       <Project Name="circular_linkedlist" ConfigName="Release"/>
       <Project Name="doubly_linkedlist" ConfigName="Release"/>
       <Project Name="circular_doubly_linkedlist" ConfigName="Release"/>
+      <Project Name="sparse_matrix_linkedlist" ConfigName="Release"/>
+      <Project Name="polynomial_linkedlist" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
