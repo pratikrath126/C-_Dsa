@@ -30,25 +30,26 @@ int main(){
     else
           cout<<"LIST IS NOT SORTED"<<endl;
     remove_duplicates(first);
-    reverse_2(NULL,first);
+  //  reverse_2(NULL,first);
   //  display(first);
-  // insert(0,0);
+  insert(1,199);
+  display(first);
  //   insert_sorted(first,91);
  //   insert_sorted(first,12);
 //insert_sorted(first,7);
  //   cout<<"DELETED ELEMENT:"<<delete_node(1)<<endl;
    // display(first);
-    cout<<endl;
-    insert_last(0);
-    insert_last(1);
-    insert_last(2);
-    insert_last(3);
-    insert_last(4);
-    insert_last(5);
-    cout<<"LIST 2"<<endl;
-   // display(start);
-    concatenate(first,start);
-    display(first);
+//    cout<<endl;
+//    insert_last(0);
+//    insert_last(1);
+//    insert_last(2);
+//    insert_last(3);
+//    insert_last(4);
+//    insert_last(5);
+//    cout<<"LIST 2"<<endl;
+//   // display(start);
+//    concatenate(first,start);
+//    display(first);
     
     return 0;
 }

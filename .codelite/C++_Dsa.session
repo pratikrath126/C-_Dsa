@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\CodeLite\C++_Dsa\C++_Dsa.workspace">
-  <int Value="17" Name="m_selectedTab"/>
+  <int Value="6" Name="m_selectedTab"/>
   <wxString Value="C:\CodeLite\C++_Dsa\C++_Dsa.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -47,8 +47,8 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\delete_duplicate\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="1" Name="CurrentLine"/>
+      <int Value="13" Name="FirstVisibleLine"/>
+      <int Value="25" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -117,38 +117,36 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\insert_linkedlist\main.cpp" Name="FileName"/>
-      <int Value="61" Name="FirstVisibleLine"/>
-      <int Value="68" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\merge_linkedlist\main.cpp" Name="FileName"/>
-      <int Value="65" Name="FirstVisibleLine"/>
-      <int Value="76" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\circular_linkedlist\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\doubly_linkedlist\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
   </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
-    <long Value="7" Name="Count"/>
+    <long Value="10" Name="Count"/>
     <SerializedObject Name="Breakpoint0">
-      <wxString Value="C:\CodeLite\C++_Dsa\merge_linkedlist\main.cpp" Name="file"/>
-      <int Value="46" Name="lineno"/>
-      <wxString Value="" Name="function_name"/>
-      <wxString Value="" Name="memory_address"/>
-      <int Value="1" Name="bp_type"/>
-      <int Value="0" Name="watchpoint_type"/>
-      <wxString Value="" Name="watchpt_data"/>
-      <CData Name="commandlist"/>
-      <bool Value="0" Name="regex"/>
-      <bool Value="0" Name="is_temp"/>
-      <bool Value="1" Name="is_enabled"/>
-      <long Value="0" Name="ignore_number"/>
-      <wxString Value="" Name="conditions"/>
-      <int Value="0" Name="origin"/>
-    </SerializedObject>
-    <SerializedObject Name="Breakpoint1">
       <wxString Value="C:/CodeLite/C++_Dsa/array/main.cpp" Name="file"/>
       <int Value="19" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -164,7 +162,7 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint2">
+    <SerializedObject Name="Breakpoint1">
       <wxString Value="C:/CodeLite/C++_Dsa/array_operation2/main.cpp" Name="file"/>
       <int Value="39" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
@@ -180,9 +178,25 @@
       <wxString Value="" Name="conditions"/>
       <int Value="0" Name="origin"/>
     </SerializedObject>
-    <SerializedObject Name="Breakpoint3">
+    <SerializedObject Name="Breakpoint2">
       <wxString Value="C:/CodeLite/C++_Dsa/array_q/main.cpp" Name="file"/>
       <int Value="17" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint3">
+      <wxString Value="C:/CodeLite/C++_Dsa/circular_linkedlist/main.cpp" Name="file"/>
+      <int Value="21" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>
       <int Value="1" Name="bp_type"/>
@@ -229,8 +243,56 @@
       <int Value="0" Name="origin"/>
     </SerializedObject>
     <SerializedObject Name="Breakpoint6">
+      <wxString Value="C:/CodeLite/C++_Dsa/merge_linkedlist/main.cpp" Name="file"/>
+      <int Value="46" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint7">
       <wxString Value="C:/CodeLite/C++_Dsa/missing_element/main.cpp" Name="file"/>
       <int Value="18" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint8">
+      <wxString Value="C:\CodeLite\C++_Dsa\doubly_linkedlist\main.cpp" Name="file"/>
+      <int Value="108" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <long Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint9">
+      <wxString Value="C:\CodeLite\C++_Dsa\doubly_linkedlist\main.cpp" Name="file"/>
+      <int Value="22" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>
       <int Value="1" Name="bp_type"/>

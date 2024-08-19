@@ -8,7 +8,7 @@
   <Project Name="2d_array" Path="2d_array/2d_array.project" Active="No"/>
   <Project Name="array_ADT_and_operations" Path="array_ADT_and_operations/array_ADT_and_operations.project" Active="No"/>
   <Project Name="array_operation2" Path="array_operation2/array_operation2.project" Active="No"/>
-  <Project Name="delete_duplicate" Path="delete_duplicate/delete_duplicate.project" Active="No"/>
+  <Project Name="delete_duplicate" Path="delete_duplicate/delete_duplicate.project" Active="Yes"/>
   <Project Name="missing_positive" Path="missing_positive/missing_positive.project" Active="No"/>
   <Project Name="template_array_ADT" Path="template_array_ADT/template_array_ADT.project" Active="No"/>
   <Project Name="missing_element" Path="missing_element/missing_element.project" Active="No"/>
@@ -27,7 +27,9 @@
   <Project Name="linked_list" Path="linked_list/linked_list.project" Active="No"/>
   <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" Path="insert_linkedlist/insert_linkedlist.project" Active="No"/>
   <Project Name="merge_linkedlist" Path="merge_linkedlist/merge_linkedlist.project" Active="No"/>
-  <Project Name="is_loop_linkedlist" Path="is_loop_linkedlist/is_loop_linkedlist.project" Active="Yes"/>
+  <Project Name="is_loop_linkedlist" Path="is_loop_linkedlist/is_loop_linkedlist.project" Active="No"/>
+  <Project Name="circular_linkedlist" Path="circular_linkedlist/circular_linkedlist.project" Active="No"/>
+  <Project Name="doubly_linkedlist" Path="doubly_linkedlist/doubly_linkedlist.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -59,6 +61,8 @@
       <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" ConfigName="Debug"/>
       <Project Name="merge_linkedlist" ConfigName="Debug"/>
       <Project Name="is_loop_linkedlist" ConfigName="Debug"/>
+      <Project Name="circular_linkedlist" ConfigName="Debug"/>
+      <Project Name="doubly_linkedlist" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -90,6 +94,8 @@
       <Project Name="INSEERT_DELETE_REVERSE_LINKEDLIST" ConfigName="Release"/>
       <Project Name="merge_linkedlist" ConfigName="Release"/>
       <Project Name="is_loop_linkedlist" ConfigName="Release"/>
+      <Project Name="circular_linkedlist" ConfigName="Release"/>
+      <Project Name="doubly_linkedlist" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
