@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\CodeLite\C++_Dsa\C++_Dsa.workspace">
-  <int Value="23" Name="m_selectedTab"/>
+  <int Value="28" Name="m_selectedTab"/>
   <wxString Value="C:\CodeLite\C++_Dsa\C++_Dsa.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -166,8 +166,43 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\polynomial_linkedlist\main.cpp" Name="FileName"/>
-      <int Value="96" Name="FirstVisibleLine"/>
-      <int Value="80" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\stack_using_array\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\stack_using_linkedlist\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\parenthesis_matching\main.cpp" Name="FileName"/>
+      <int Value="75" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\infix_to_postfix\main.cpp" Name="FileName"/>
+      <int Value="99" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\infix_to_postfix_withparenthesis\main.cpp" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -335,7 +370,7 @@
       <int Value="0" Name="origin"/>
     </SerializedObject>
     <SerializedObject Name="Breakpoint10">
-      <wxString Value="C:\CodeLite\C++_Dsa\sparse_matrix_linkedlist\main.cpp" Name="file"/>
+      <wxString Value="C:/CodeLite/C++_Dsa/sparse_matrix_linkedlist/main.cpp" Name="file"/>
       <int Value="21" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>
@@ -351,7 +386,7 @@
       <int Value="0" Name="origin"/>
     </SerializedObject>
     <SerializedObject Name="Breakpoint11">
-      <wxString Value="C:\CodeLite\C++_Dsa\sparse_matrix_linkedlist\main.cpp" Name="file"/>
+      <wxString Value="C:/CodeLite/C++_Dsa/sparse_matrix_linkedlist/main.cpp" Name="file"/>
       <int Value="25" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>
@@ -367,7 +402,7 @@
       <int Value="0" Name="origin"/>
     </SerializedObject>
     <SerializedObject Name="Breakpoint12">
-      <wxString Value="C:\CodeLite\C++_Dsa\sparse_matrix_linkedlist\main.cpp" Name="file"/>
+      <wxString Value="C:/CodeLite/C++_Dsa/sparse_matrix_linkedlist/main.cpp" Name="file"/>
       <int Value="27" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>

@@ -1,4 +1,16 @@
 [{
+  "file": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix_method2\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix_method2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\infix_to_postfix_method2\\main.cpp -o C:\\CodeLite\\C++_Dsa\\infix_to_postfix_method2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix_withparenthesis\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix_withparenthesis",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\infix_to_postfix_withparenthesis\\main.cpp -o C:\\CodeLite\\C++_Dsa\\infix_to_postfix_withparenthesis\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\stack_using_linkedlist\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\stack_using_linkedlist",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\stack_using_linkedlist\\main.cpp -o C:\\CodeLite\\C++_Dsa\\stack_using_linkedlist\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\CodeLite\\C++_Dsa\\circular_doubly_linkedlist\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\circular_doubly_linkedlist",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\circular_doubly_linkedlist\\main.cpp -o C:\\CodeLite\\C++_Dsa\\circular_doubly_linkedlist\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
@@ -6,6 +18,10 @@
   "file": "C:\\CodeLite\\C++_Dsa\\doubly_linkedlist\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\doubly_linkedlist",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\doubly_linkedlist\\main.cpp -o C:\\CodeLite\\C++_Dsa\\doubly_linkedlist\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\stack_using_array\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\stack_using_array",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\stack_using_array\\main.cpp -o C:\\CodeLite\\C++_Dsa\\stack_using_array\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\CodeLite\\C++_Dsa\\circular_linkedlist\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\circular_linkedlist",
@@ -46,6 +62,10 @@
   "file": "C:\\CodeLite\\C++_Dsa\\lower_traingular_matrix\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\lower_traingular_matrix",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\lower_traingular_matrix\\main.cpp -o C:\\CodeLite\\C++_Dsa\\lower_traingular_matrix\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\infix_to_prefix\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\infix_to_prefix",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\infix_to_prefix\\main.cpp -o C:\\CodeLite\\C++_Dsa\\infix_to_prefix\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\CodeLite\\C++_Dsa\\delete_duplicate\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\delete_duplicate",
@@ -95,6 +115,10 @@
   "directory": "C:\\CodeLite\\C++_Dsa\\find_duplicate",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\find_duplicate\\main.cpp -o C:\\CodeLite\\C++_Dsa\\find_duplicate\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\parenthesis_matching\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\parenthesis_matching",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\parenthesis_matching\\main.cpp -o C:\\CodeLite\\C++_Dsa\\parenthesis_matching\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\CodeLite\\C++_Dsa\\template_array_ADT\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\template_array_ADT",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\template_array_ADT\\main.cpp -o C:\\CodeLite\\C++_Dsa\\template_array_ADT\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
@@ -114,6 +138,10 @@
   "file": "C:\\CodeLite\\C++_Dsa\\template_class\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\template_class",
   "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\template_class\\main.cpp -o C:\\CodeLite\\C++_Dsa\\template_class\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix\\main.cpp",
+  "directory": "C:\\CodeLite\\C++_Dsa\\infix_to_postfix",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\CodeLite\\C++_Dsa\\infix_to_postfix\\main.cpp -o C:\\CodeLite\\C++_Dsa\\infix_to_postfix\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\CodeLite\\C++_Dsa\\polynomial_represenatation\\main.cpp",
   "directory": "C:\\CodeLite\\C++_Dsa\\polynomial_represenatation",

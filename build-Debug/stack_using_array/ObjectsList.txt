@@ -1,0 +1,1 @@
+../build-Debug/stack_using_array/main.cpp.o   

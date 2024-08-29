@@ -32,7 +32,14 @@
   <Project Name="doubly_linkedlist" Path="doubly_linkedlist/doubly_linkedlist.project" Active="No"/>
   <Project Name="circular_doubly_linkedlist" Path="circular_doubly_linkedlist/circular_doubly_linkedlist.project" Active="No"/>
   <Project Name="sparse_matrix_linkedlist" Path="sparse_matrix_linkedlist/sparse_matrix_linkedlist.project" Active="No"/>
-  <Project Name="polynomial_linkedlist" Path="polynomial_linkedlist/polynomial_linkedlist.project" Active="Yes"/>
+  <Project Name="polynomial_linkedlist" Path="polynomial_linkedlist/polynomial_linkedlist.project" Active="No"/>
+  <Project Name="stack_using_array" Path="stack_using_array/stack_using_array.project" Active="No"/>
+  <Project Name="stack_using_linkedlist" Path="stack_using_linkedlist/stack_using_linkedlist.project" Active="No"/>
+  <Project Name="parenthesis_matching" Path="parenthesis_matching/parenthesis_matching.project" Active="No"/>
+  <Project Name="infix_to_postfix" Path="infix_to_postfix/infix_to_postfix.project" Active="No"/>
+  <Project Name="infix_to_postfix_withparenthesis" Path="infix_to_postfix_withparenthesis/infix_to_postfix_withparenthesis.project" Active="No"/>
+  <Project Name="infix_to_postfix_method2" Path="infix_to_postfix_method2/infix_to_postfix_method2.project" Active="No"/>
+  <Project Name="infix_to_prefix" Path="infix_to_prefix/infix_to_prefix.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -69,6 +76,13 @@
       <Project Name="circular_doubly_linkedlist" ConfigName="Debug"/>
       <Project Name="sparse_matrix_linkedlist" ConfigName="Debug"/>
       <Project Name="polynomial_linkedlist" ConfigName="Debug"/>
+      <Project Name="stack_using_array" ConfigName="Debug"/>
+      <Project Name="stack_using_linkedlist" ConfigName="Debug"/>
+      <Project Name="parenthesis_matching" ConfigName="Debug"/>
+      <Project Name="infix_to_postfix" ConfigName="Debug"/>
+      <Project Name="infix_to_postfix_withparenthesis" ConfigName="Debug"/>
+      <Project Name="infix_to_postfix_method2" ConfigName="Debug"/>
+      <Project Name="infix_to_prefix" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -105,6 +119,13 @@
       <Project Name="circular_doubly_linkedlist" ConfigName="Release"/>
       <Project Name="sparse_matrix_linkedlist" ConfigName="Release"/>
       <Project Name="polynomial_linkedlist" ConfigName="Release"/>
+      <Project Name="stack_using_array" ConfigName="Release"/>
+      <Project Name="stack_using_linkedlist" ConfigName="Release"/>
+      <Project Name="parenthesis_matching" ConfigName="Release"/>
+      <Project Name="infix_to_postfix" ConfigName="Release"/>
+      <Project Name="infix_to_postfix_withparenthesis" ConfigName="Release"/>
+      <Project Name="infix_to_postfix_method2" ConfigName="Release"/>
+      <Project Name="infix_to_prefix" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
