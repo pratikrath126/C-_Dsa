@@ -33,13 +33,13 @@
   <Project Name="circular_doubly_linkedlist" Path="circular_doubly_linkedlist/circular_doubly_linkedlist.project" Active="No"/>
   <Project Name="sparse_matrix_linkedlist" Path="sparse_matrix_linkedlist/sparse_matrix_linkedlist.project" Active="No"/>
   <Project Name="polynomial_linkedlist" Path="polynomial_linkedlist/polynomial_linkedlist.project" Active="No"/>
-  <Project Name="stack_using_array" Path="stack_using_array/stack_using_array.project" Active="No"/>
+  <Project Name="stack_using_array" Path="stack_using_array/stack_using_array.project" Active="Yes"/>
   <Project Name="stack_using_linkedlist" Path="stack_using_linkedlist/stack_using_linkedlist.project" Active="No"/>
   <Project Name="parenthesis_matching" Path="parenthesis_matching/parenthesis_matching.project" Active="No"/>
   <Project Name="infix_to_postfix" Path="infix_to_postfix/infix_to_postfix.project" Active="No"/>
   <Project Name="infix_to_postfix_withparenthesis" Path="infix_to_postfix_withparenthesis/infix_to_postfix_withparenthesis.project" Active="No"/>
   <Project Name="infix_to_postfix_method2" Path="infix_to_postfix_method2/infix_to_postfix_method2.project" Active="No"/>
-  <Project Name="infix_to_prefix" Path="infix_to_prefix/infix_to_prefix.project" Active="Yes"/>
+  <Project Name="infix_to_prefix" Path="infix_to_prefix/infix_to_prefix.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

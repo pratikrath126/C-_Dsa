@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\CodeLite\C++_Dsa\C++_Dsa.workspace">
-  <int Value="28" Name="m_selectedTab"/>
+  <int Value="29" Name="m_selectedTab"/>
   <wxString Value="C:\CodeLite\C++_Dsa\C++_Dsa.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -187,22 +187,36 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\parenthesis_matching\main.cpp" Name="FileName"/>
-      <int Value="75" Name="FirstVisibleLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
       <int Value="1" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\infix_to_postfix\main.cpp" Name="FileName"/>
-      <int Value="99" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="C:\CodeLite\C++_Dsa\infix_to_postfix_withparenthesis\main.cpp" Name="FileName"/>
-      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="76" Name="FirstVisibleLine"/>
       <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\infix_to_prefix\main.cpp" Name="FileName"/>
+      <int Value="102" Name="FirstVisibleLine"/>
+      <int Value="104" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\CodeLite\C++_Dsa\infix_to_postfix_method2\main.cpp" Name="FileName"/>
+      <int Value="90" Name="FirstVisibleLine"/>
+      <int Value="88" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
